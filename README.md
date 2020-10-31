@@ -16,5 +16,22 @@
     学会使用super()，用于实例化子类；
     掌握使用Object根类的toString（）方法,应用在相关对象的信息输出中。
     
+## 3.流程图
+
+## 4.核心代码
+
+    String mName = a.getName();
+    String mNumber = a.getNumber();
+    String mSex = a.getSex();
     
-## 系统运行截图
+    String teachernumber=b.getNumber();
+    String teachername = b.getName();
+    String teacherclass =b.getInstruction();
+		
+    teachername = b.getName();
+    teachernumber=b.getNumber();
+    teacherclass=b.getInstruction();
+    
+   
+## 5.实验结果（系统运行截图）
+https://github.com/KongDeYin1/course1/blob/main/%E5%AE%9E%E9%AA%8C%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE.PNG
